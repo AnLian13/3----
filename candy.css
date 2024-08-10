@@ -1,0 +1,29 @@
+body {
+    background: url("./1612866265_108-p-krasivii-krasnii-fon-dlya-avatarki-152.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+
+    #board {
+        width: 485px;
+        height: 539px;
+        background-color: #4500d1;
+        border: 5px solid slategray;
+        border-radius: 10px;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 20px;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+
+#board img {
+    width: 50px;
+    height: 50px;
+   
+}
